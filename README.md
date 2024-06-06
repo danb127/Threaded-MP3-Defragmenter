@@ -20,7 +20,6 @@ By completing this project, you will gain hands-on experience with:
 ## 🚀 Getting Started
 To get started with the MP3 Defragmenter project, follow these steps:
 1. Clone the repository:
-        
         ```
         git clone https://github.com/danb127/mp3-defragmenter.git
         ```
